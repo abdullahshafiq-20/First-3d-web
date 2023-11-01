@@ -4,7 +4,7 @@ Welcome to my Interactive 3D Landing Page! 🚀
 
 This repository contains all the files you need to set up and experience this exciting project. Enjoy an immersive 3D experience created with HTML, CSS, and JavaScript.
 
-![Interactive 3D Landing Page](link_to_your_image.png)
+![Interactive 3D Landing Page](images/cover.png)
 
 **Demo**: [View Live Demo](link_to_live_demo)
 
