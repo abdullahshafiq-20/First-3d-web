@@ -6,7 +6,8 @@ This repository contains all the files you need to set up and experience this ex
 
 ![Interactive 3D Landing Page](images/cover.png)
 
-**Demo**: [View Live Demo](link_to_live_demo)
+**Demo**: [View Live Demo](https://first3dlp.netlify.app/)
+
+*Note: For the best experience with the 3D element, it is recommended to use a desktop or laptop computer.*
 
 Feel free to explore and customize to make it your own!
-
